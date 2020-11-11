@@ -27,13 +27,14 @@ The problem is exactly that &mdash; need to install the program.
 
 6. Example &mdash; This is my public key generated as of the time stamp of this README.md:
 
+```
 -----BEGIN PUBLIC KEY-----
 MIGeMA0GCSqGSIb3DQEBAQUAA4GMADCBiAKBgHYkAEjsigRm37mLHwi5U76sPFmN
 HceiLnoK6FUUGG48z48bHcaPTHKJmlh6xx68fktVmdVSwKY1i5B6w2Ehlr4Ih7Re
 eSnd4E6kkC0ycB1k2rKnVethj+LEWaX6+xurZvRgN+ebxmX5h7cpzseF/ftYpbn5
 WH5OONCPJOzhdGwNAgMBAAE=
 -----END PUBLIC KEY-----
-
+```
 
 ## Beyond Private Messages
 
