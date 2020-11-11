@@ -8,7 +8,9 @@ Hence the need of PhosPM &mdash; using public key to encode a message intended f
 
 In fact, this idea is not new and numerous programs have been written to do that.
 
-The problem is exactly that &mdash; need to install the program.
+The problem is exactly that &mdash; need to install those programs.
+
+PhosPM is a completely web based solution &mdash; and beyond!
 
 
 ## How to use PhosPM
